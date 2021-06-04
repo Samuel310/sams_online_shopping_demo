@@ -2,7 +2,7 @@
 
 A boutique shop app, where the customer can buy desired fashionable clothes which are uploaded and managed by the admin.
 
-Admin and customer have separarte apps.
+Admin and customer have separate apps.
 
  - [Admin App](https://github.com/Samuel310/sams_online_shopping_demo/tree/master/admin_app)
  - [Customer App](https://github.com/Samuel310/sams_online_shopping_demo/tree/master/customer_app)
