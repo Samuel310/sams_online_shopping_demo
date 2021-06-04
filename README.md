@@ -4,8 +4,8 @@ A boutique shop app, where the customer can buy desired fashionable clothes whic
 
 Admin and customer have separarte apps.
 
- - [Admin App](https://flutter.dev/docs/get-started/codelab)
- - [Customer App](https://flutter.dev/docs/get-started/codelab)
+ - [Admin App](https://github.com/Samuel310/sams_online_shopping_demo/tree/master/admin_app)
+ - [Customer App](https://github.com/Samuel310/sams_online_shopping_demo/tree/master/customer_app)
 
 This app is made to demonstrate the usage of,
 
@@ -17,51 +17,15 @@ This app is made to demonstrate the usage of,
 
 ## Images
 
-<div>
-<img src="images/1.png"
-     alt="Markdown icon"
-     style="width: 300px; float:left" />
-
-<img src="images/2.png"
-     alt="Markdown icon"
-     style="width: 300px; margin-left: 50px" />
-</div>
-
-<div>
-<img src="images/3.png"
-     alt="Markdown icon"
-     style="width: 300px; float:left" />
-
-<img src="images/4.png"
-     alt="Markdown icon"
-     style="width: 300px; margin-left: 50px" />
-</div>
-
-<div>
-<img src="images/5.png"
-     alt="Markdown icon"
-     style="width: 300px; float:left" />
-
-<img src="images/6.png"
-     alt="Markdown icon"
-     style="width: 300px; margin-left: 50px" />
-</div>
-
-<div>
-<img src="images/7.png"
-     alt="Markdown icon"
-     style="width: 300px; float:left" />
-
-<img src="images/8.png"
-     alt="Markdown icon"
-     style="width: 300px; margin-left: 50px" />
-</div>
-
-<div>
-<img src="images/9.png"
-     alt="Markdown icon"
-     style="width: 300px;" />
-</div>
+<img src="images/1.png" alt="Markdown icon" width="300"/>
+<img src="images/2.png" alt="Markdown icon" width="300"/>
+<img src="images/3.png" alt="Markdown icon" width="300"/>
+<img src="images/4.png" alt="Markdown icon" width="300"/>
+<img src="images/5.png" alt="Markdown icon" width="300"/>
+<img src="images/6.png" alt="Markdown icon" width="300"/>
+<img src="images/7.png" alt="Markdown icon" width="300"/>
+<img src="images/8.png" alt="Markdown icon" width="300"/>
+<img src="images/9.png" alt="Markdown icon" width="300"/>
 
 ## How to run
 
